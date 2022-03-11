@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShowOnPause
+  - InventoryPause
+  - ToolbarPause
+  - DragItemIcon
+  - Enemy
+  - To Mine
+  - Exit
+  - Explosion
+  - Bomb
+  - quests
+  - QuestMenu
+  - SarahPanel
+  - SarahQuestDescription
+  - SarahQuestReward
+  - SarahQuestName
+  - MitchPanel
+  - MitchQuestName
+  - MitchQuestDescription
+  - MitchQuestReward
+  - KarlPanel
+  - KarlQuestName
+  - KarlQuestDescription
+  - KarlQuestReward
+  - ClancyPanel
+  - ClancyQuestName
+  - ClancyQuestDescription
+  - ClancyQuestReward
+  - AmorphousSlayer
+  - BeastSlayer
+  - ConstructSlayer
+  - HumanoidSlayer
+  - Poison
+  - Slow
+  - LifeSteal
+  - ExplosionIcon
+  - SpeedIcon
+  - DefenseIcon
+  - MainMenu
+  - InstructionsMenu
+  - BossUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Player
+  - Enemy
+  - Level
+  - Player Ghost
+  - Bat
+  - Underground
+  - Explosion
+  - Bomb
+  - Enemy Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 697472515
+    locked: 0
+  - name: Items
+    uniqueID: 3056639055
+    locked: 0
+  - name: Units
+    uniqueID: 2211689817
+    locked: 0

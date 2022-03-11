@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7d30a51f8381bc4a8efed08a14ee297, type: 3}
+  m_Name: Spear2
+  m_EditorClassIdentifier: 
+  id: 18
+  Name: Bronze  Spear
+  stackable: 0
+  consumable: 0
+  icon: {fileID: 21300000, guid: 1078ca380ef550547add073c2389c86b, type: 3}
+  OnAction: {fileID: 11400000, guid: e8a1a228e6c0351459bded3a91edc48c, type: 2}
